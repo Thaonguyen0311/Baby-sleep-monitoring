@@ -22,4 +22,5 @@ MPU6050 → ESP32 → Movement Analysis →
 ## Technologies & Hardware
 Programming: C++ Platform: ESP32 Sensor: MPU6050 (Accelerometer + Gyroscope) Audio: DFPlayer Mini + Mini Speaker 
 Communication: Telegram Bot API 
+
 **Domain: Embedded Systems · IoT · Sensor Processing · Automation**
